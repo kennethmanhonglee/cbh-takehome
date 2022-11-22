@@ -24,4 +24,9 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
   }
   ```
   to use one less if statement, so it is slightly more readble.
-- 
+- I made: 
+  ```JavaScript
+  turnToString()
+  ```
+  and applied it to check whether candidate is a string. Reading a helper function's name is more clear than reading if blocks. 
+- I made `makeHash()` to avoid repeating the same code over and over again, which affected readablity.
